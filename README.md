@@ -135,6 +135,15 @@ One CRM for every lead, with calendars, reminders and alerts wired in.
 
 **Measured:** 386 leads in the CRM by Oct 28, up from 2 of 278 on Oct 4. The pipeline now holds 378 opportunities.
 
+![Lisa Chat live on Auto-Pilot](images/7-ghl-lisa-chat-agent.jpg)
+*Lisa Chat, live on Auto-Pilot across WhatsApp, Instagram, Facebook and website chat.*
+
+![Lisa Voice live on the business line](images/7-ghl-lisa-voice-agent.jpg)
+*Lisa Voice, live on the main business number and the website widget, speech to speech.*
+
+![The Lisa Intake workflow](images/7-ghl-lisa-intake-workflow.jpg)
+*The Lisa Intake workflow: a reply on any of 4 channels updates the AI bot status, creates the opportunity and assigns an owner.*
+
 ![Live Lisa workflows in GoHighLevel](images/7-ghl-lisa-workflows.jpg)
 *The live Lisa workflows: Intake, Booking Handoff, Name and Phone Sync, No-Booking Alert, and HomeSurvey Completed. Name Sync alone has run 220 times.*
 
