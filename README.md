@@ -133,7 +133,13 @@ One CRM for every lead, with calendars, reminders and alerts wired in.
 - Owner assignment and no-booking alerts
 - A command line tool that reads, diffs, sandbox-tests and restores GoHighLevel config with receipts
 
-**Measured:** 386 leads in the CRM by Oct 28, up from 2 of 278 on Oct 4.
+**Measured:** 386 leads in the CRM by Oct 28, up from 2 of 278 on Oct 4. The pipeline now holds 378 opportunities.
+
+![Live Lisa workflows in GoHighLevel](images/7-ghl-lisa-workflows.jpg)
+*The live Lisa workflows: Intake, Booking Handoff, Name and Phone Sync, No-Booking Alert, and HomeSurvey Completed. Name Sync alone has run 220 times.*
+
+![The sales pipeline, customer details blurred](images/7-ghl-pipeline-blurred.jpg)
+*The sales pipeline, split into Domestic, International and Storage. Customer details are blurred.*
 
 ## 6. AI Sales Agent
 
